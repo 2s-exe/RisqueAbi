@@ -1,0 +1,371 @@
+id,heure,commune,sex,categorie
+1,18:43,Abobo,Femme,Adolescent
+2,18:43,Abobo,Femme,Adolescent
+3,Non précisée,Yopougon,Femme,Adulte
+4,Non précisée,Abobo,Femme,Adulte
+5,Non précisée,Yopougon,Non précisé,Adolescent
+6,Non précisée,Cocody,Femme,Enfant
+7,18:43,Abobo,Femme,Enfant
+8,Non précisée,Abobo,Femme,Adulte
+9,Non précisée,Abobo,Femme,Enfant
+10,Non précisée,Abobo,Homme,Adolescent
+11,Non précisée,Yopougon,Non précisé,Non précisé
+12,18:43,Yopougon,Homme,Adolescent
+13,Non précisée,Cocody,Non précisé,Non précisé
+14,18:43,Treichville,Homme,Adolescent
+15,Non précisée,Abobo,Non précisé,Non précisé
+16,00:00,Treichville,Non précisé,Non précisé
+17,Non précisée,Cocody,Non précisé,Non précisé
+18,Non précisée,Treichville,Non précisé,Non précisé
+19,Non précisée,Cocody,Non précisé,Non précisé
+20,Non précisée,Cocody,Non précisé,Non précisé
+21,Non précisée,Abobo,Homme,Adulte
+22,Non précisée,Yopougon,Homme,Adolescent
+23,Non précisée,Yopougon,Femme,Enfant
+24,10:37,Abobo,Femme,Adulte
+25,9:00,Abobo,Non précisé,Non précisé
+26,12:10,Abobo,Homme,Adulte
+27,23:47,Abobo,Non précisé,Non précisé
+28,14:18,Abobo,Non précisé,Non précisé
+29,19:30,Abobo,Homme,Adolescent
+30,11:27,Abobo,Homme,Adulte
+31,18:58,Abobo,Non précisé,Adolescent
+32,12:46,Abobo,Homme,Adulte
+33,11:18,Abobo,Homme,Adulte
+34,8:27,Abobo,Non précisé,Adolescent
+35,9:45,Abobo,Non précisé,Adolescent
+36,11:46,Abobo,Femme,Adolescent
+37,13:20,Abobo,Homme,Adulte
+38,23:18,Abobo,Non précisé,Non précisé
+39,17:24,Abobo,Homme,Enfant
+40,15:27,Abobo,Multiple,Non précisé
+41,13:22,Abobo,Non précisé,Non précisé
+42,23:49,Abobo,Non précisé,Non précisé
+43,18:52,Abobo,Homme,Adolescent
+44,19:29,Abobo,Non précisé,Non précisé
+45,20:56,Abobo,Non précisé,Non précisé
+46,18:55,Abobo,Femme,Adulte
+47,18:43,Abobo,Homme,Adulte
+48,17:26,Abobo,Non précisé,Non précisé
+49,9:41,Abobo,Non précisé,Non précisé
+50,13:37,Abobo,Non précisé,Non précisé
+51,19:04,Abobo,Femme,Adulte
+52,16:12,Abobo,Non précisé,Non précisé
+53,13:45,Abobo,Multiple,Non précisé
+54,11:15,Abobo,Non précisé,Non précisé
+55,11:45,Abobo,Femme,Adulte
+56,10:29,Abobo,Femme,Adulte
+57,11:02,Abobo,Multiple,Non précisé
+58,14:39,Abobo,Non précisé,Non précisé
+59,11:35,Abobo,Homme,Adulte
+60,9:04,Abobo,Non précisé,Non précisé
+61,12:31,Abobo,Femme,Adulte
+62,13:02,Abobo,Femme,Adulte
+63,12:27,Abobo,Non précisé,Non précisé
+64,21:20,Abobo,Homme,Adulte
+65,14:22,Abobo,Non précisé,Adolescent
+66,13:43,Abobo,Non précisé,Enfant
+67,18:43,Abobo,Non précisé,Non précisé
+68,17:50,Abobo,Femme,Adulte
+69,12:15,Abobo,Femme,Adulte
+70,15:57,Abobo,Non précisé,Non précisé
+71,17:18,Abobo,Non précisé,Non précisé
+72,12:58,Abobo,Non précisé,Non précisé
+73,16:42,Abobo,Homme,Adulte
+74,12:21,Abobo,Femme,Adolescent
+75,15:39,Abobo,Non précisé,Non précisé
+76,15:30,Abobo,Non précisé,Non précisé
+77,12:03,Abobo,Homme,Adulte
+78,8:32,Abobo,Femme,Adolescent
+79,15:22,Abobo,Femme,Adulte
+80,16:50,Abobo,Femme,Adolescent
+81,9:38,Abobo,Homme,Adolescent
+82,17:28,Abobo,Non précisé,Adolescent
+83,12:23,Abobo,Femme,Enfant
+84,Non précisée,Abobo,Femme,Adulte
+85,Non précisée,Abobo,Femme,Adolescent
+86,Non précisée,Abobo,Multiple,Non précisé
+87,Non précisée,Abobo,Multiple,Enfant
+88,Non précisée,Abobo,Non précisé,Enfant
+89,Non précisée,Abobo,Non précisé,Non précisé
+90,16:30,Yopougon,Multiple,Non précisé
+91,10:51,Yopougon,Multiple,Non précisé
+92,9:00,Koumassi,Non précisé,Non précisé
+93,17:44,Abobo,Non précisé,Non précisé
+95,13:41,Treichville,Femme,Adolescent
+96,16:53,Treichville,Homme,Adulte
+97,12:53,Yopougon,Homme,Adulte
+98,23:24,Abobo,Non précisé,Adolescent
+99,17:16,Abobo,Femme,Adulte
+100,8:59,Treichville,Homme,Adolescent
+101,15:41,Abobo,Femme,Adulte
+102,15:58,Abobo,Femme,Adulte
+104,14:16,Abobo,Non précisé,Enfant
+105,17:22,Koumassi,Multiple,Non précisé
+106,19:41,Treichville,Femme,Adulte
+107,17:00,Yopougon,Femme,Adulte
+108,11:34,Treichville,Non précisé,Adolescent
+109,10:16,Abobo,Non précisé,Adolescent
+110,14:23,Yopougon,Homme,Adulte
+111,17:51,Abobo,Homme,Enfant
+112,Non précisée,Abobo,Non précisé,Non précisé
+115,Non précisée,Abobo,Femme,Enfant
+116,Non précisée,Abobo,Femme,Enfant
+118,22:04,Treichville,Non précisé,Adolescent
+119,12:00,Treichville,Non précisé,Non précisé
+120,8:58,Treichville,Homme,Adulte
+121,15:33,Treichville,Non précisé,Non précisé
+122,15:23,Treichville,Non précisé,Non précisé
+123,18:12,Treichville,Femme,Enfant
+124,14:26,Treichville,Non précisé,Non précisé
+125,8:30,Treichville,Non précisé,Enfant
+126,13:36,Treichville,Non précisé,Non précisé
+127,9:54,Treichville,Non précisé,Non précisé
+128,13:13,Treichville,Non précisé,Non précisé
+129,18:56,Treichville,Non précisé,Non précisé
+130,17:14,Treichville,Femme,Adulte
+131,15:05,Treichville,Homme,Enfant
+132,11:41,Abobo,Non précisé,Adolescent
+133,11:34,Treichville,Multiple,Enfant
+134,13:25,Treichville,Multiple,Non précisé
+135,14:42,Treichville,Femme,Enfant
+136,19:52,Treichville,Non précisé,Non précisé
+137,16:26,Treichville,Femme,Adulte
+138,12:41,Treichville,Femme,Adulte
+139,11:39,Treichville,Multiple,Non précisé
+140,12:09,Treichville,Femme,Adolescent
+141,11:59,Abobo,Homme,Adulte
+142,16:30,Treichville,Non précisé,Non précisé
+143,12:45,Treichville,Femme,Adolescent
+144,12:59,Abobo,Non précisé,Enfant
+145,15:22,Treichville,Non précisé,Non précisé
+146,1:06,Treichville,Homme,Adulte
+147,19:02,Abobo,Non précisé,Non précisé
+148,13:19,Treichville,Femme,Adulte
+149,11:05,Treichville,Femme,Adulte
+150,12:50,Treichville,Non précisé,Adolescent
+151,20:33,Treichville,Non précisé,Non précisé
+152,10:23,Treichville,Non précisé,Adolescent
+153,14:27,Treichville,Multiple,Non précisé
+154,13:22,Abobo,Non précisé,Enfant
+155,20:41,Abobo,Homme,Enfant
+156,21:54,Treichville,Homme,Enfant
+157,3:02,Treichville,Homme,Adolescent
+158,7:36,Treichville,Non précisé,Non précisé
+159,11:29,Treichville,Non précisé,Adolescent
+160,14:29,Abobo,Non précisé,Non précisé
+161,14:04,Treichville,Homme,Adulte
+162,12:30,Treichville,Non précisé,Adolescent
+163,12:13,Treichville,Non précisé,Non précisé
+164,20:00,Treichville,Multiple,Enfant
+165,14:08,Treichville,Non précisé,Non précisé
+166,7:24,Treichville,Multiple,Non précisé
+167,17:54,Treichville,Non précisé,Non précisé
+168,16:47,Treichville,Non précisé,Adolescent
+169,12:57,Treichville,Femme,Enfant
+170,21:14,Treichville,Non précisé,Non précisé
+171,17:32,Treichville,Non précisé,Enfant
+172,15:26,Treichville,Non précisé,Non précisé
+173,16:26,Treichville,Homme,Adulte
+174,12:52,Treichville,Non précisé,Non précisé
+175,13:57,Treichville,Multiple,Adolescent
+176,19:06,Abobo,Non précisé,Non précisé
+177,10:00,Treichville,Homme,Adulte
+178,Non précisée,Treichville,Non précisé,Non précisé
+179,Non précisée,Treichville,Femme,Adolescent
+180,Non précisée,Abobo,Femme,Adolescent
+181,Non précisée,Treichville,Homme,Adolescent
+182,Non précisée,Treichville,Non précisé,Adolescent
+183,Non précisée,Treichville,Femme,Adolescent
+184,8:33,Yopougon,Non précisé,Non précisé
+185,14:15,Yopougon,Homme,Adulte
+186,23:01,Yopougon,Homme,Adulte
+187,15:11,Yopougon,Femme,Enfant
+188,13:23,Yopougon,Femme,Adolescent
+189,21:33,Abobo,Non précisé,Non précisé
+190,13:36,Yopougon,Non précisé,Non précisé
+191,8:58,Yopougon,Non précisé,Non précisé
+192,11:28,Yopougon,Homme,Adulte
+193,13:24,Yopougon,Non précisé,Non précisé
+194,10:23,Yopougon,Homme,Adulte
+195,19:31,Yopougon,Non précisé,Non précisé
+196,9:28,Yopougon,Homme,Adolescent
+197,14:03,Yopougon,Non précisé,Adolescent
+198,13:54,Yopougon,Non précisé,Adolescent
+199,20:19,Yopougon,Non précisé,Non précisé
+200,13:41,Yopougon,Homme,Adulte
+201,0:40,Yopougon,Homme,Adulte
+202,22:36,Yopougon,Non précisé,Adolescent
+203,9:44,Yopougon,Non précisé,Non précisé
+204,18:22,Yopougon,Non précisé,Non précisé
+205,21:15,Yopougon,Femme,Adulte
+206,8:22,Yopougon,Non précisé,Non précisé
+207,20:30,Abobo,Non précisé,Adolescent
+208,20:16,Yopougon,Multiple,Non précisé
+209,14:38,Yopougon,Non précisé,Non précisé
+210,13:05,Yopougon,Homme,Adulte
+211,21:28,Abobo,Non précisé,Non précisé
+212,23:59,Yopougon,Non précisé,Enfant
+213,8:11,Yopougon,Homme,Enfant
+214,14:02,Yopougon,Non précisé,Non précisé
+215,12:53,Yopougon,Non précisé,Non précisé
+216,10:10,Yopougon,Femme,Adulte
+217,22:50,Yopougon,Non précisé,Non précisé
+218,12:49,Yopougon,Homme,Adulte
+219,15:32,Yopougon,Non précisé,Non précisé
+220,19:49,Yopougon,Femme,Enfant
+221,7:38,Yopougon,Multiple,Non précisé
+222,14:20,Yopougon,Non précisé,Non précisé
+223,14:34,Yopougon,Non précisé,Non précisé
+224,12:46,Yopougon,Homme,Adulte
+225,12:37,Yopougon,Multiple,Non précisé
+226,4:53,Yopougon,Non précisé,Non précisé
+227,18:38,Yopougon,Non précisé,Non précisé
+228,9:40,Yopougon,Non précisé,Non précisé
+229,11:50,Yopougon,Homme,Adulte
+230,16:11,Yopougon,Non précisé,Adolescent
+231,16:21,Yopougon,Non précisé,Non précisé
+232,16:17,Yopougon,Non précisé,Non précisé
+233,13:07,Yopougon,Non précisé,Non précisé
+234,16:40,Yopougon,Non précisé,Non précisé
+235,10:06,Yopougon,Femme,Adulte
+236,16:07,Abobo,Non précisé,Adolescent
+237,15:10,Yopougon,Non précisé,Non précisé
+238,2:17,Yopougon,Homme,Adulte
+239,9:41,Yopougon,Homme,Adulte
+240,22:38,Yopougon,Non précisé,Non précisé
+241,1:16,Yopougon,Non précisé,Non précisé
+242,14:52,Yopougon,Non précisé,Non précisé
+243,Non précisée,Abobo,Femme,Adulte
+244,Non précisée,Yopougon,Femme,Adulte
+245,Non précisée,Yopougon,Non précisé,Adolescent
+246,Non précisée,Yopougon,Femme,Adolescent
+247,Non précisée,Yopougon,Multiple,Adolescent
+248,Non précisée,Yopougon,Femme,Adulte
+249,11:58,Koumassi,Homme,Enfant
+250,13:51,Koumassi,Non précisé,Non précisé
+251,16:11,Abobo,Homme,Adulte
+252,9:42,Yopougon,Homme,Adulte
+253,13:21,Abobo,Homme,Adulte
+254,14:47,Koumassi,Non précisé,Non précisé
+255,7:42,Koumassi,Non précisé,Non précisé
+256,23:31,Koumassi,Multiple,Adolescent
+257,18:12,Koumassi,Non précisé,Non précisé
+258,14:12,Koumassi,Non précisé,Non précisé
+259,11:40,Koumassi,Non précisé,Adolescent
+260,18:29,Koumassi,Femme,Enfant
+261,14:07,Koumassi,Femme,Adulte
+262,8:13,Abobo,Non précisé,Non précisé
+263,17:25,Koumassi,Femme,Adulte
+264,11:02,Koumassi,Multiple,Enfant
+265,11:43,Koumassi,Non précisé,Adolescent
+266,12:23,Koumassi,Non précisé,Enfant
+267,14:01,Koumassi,Multiple,Non précisé
+268,18:06,Koumassi,Non précisé,Non précisé
+269,13:54,Treichville,Multiple,Adolescent
+270,18:06,Koumassi,Femme,Adulte
+271,9:49,Abobo,Non précisé,Non précisé
+272,17:48,Koumassi,Non précisé,Non précisé
+273,20:26,Koumassi,Homme,Enfant
+274,16:40,Koumassi,Multiple,Non précisé
+275,11:10,Yopougon,Non précisé,Non précisé
+276,12:43,Koumassi,Multiple,Adolescent
+277,13:01,Koumassi,Femme,Adulte
+278,18:33,Koumassi,Femme,Adulte
+279,18:15,Koumassi,Femme,Adolescent
+280,11:14,Koumassi,Non précisé,Enfant
+281,17:38,Koumassi,Non précisé,Non précisé
+282,8:17,Koumassi,Multiple,Non précisé
+283,12:07,Koumassi,Multiple,Adolescent
+284,14:00,Koumassi,Non précisé,Adolescent
+285,16:52,Abobo,Non précisé,Adolescent
+286,11:02,Koumassi,Non précisé,Adolescent
+287,12:46,Koumassi,Non précisé,Non précisé
+288,15:56,Koumassi,Non précisé,Non précisé
+289,14:01,Koumassi,Homme,Adulte
+290,13:15,Koumassi,Non précisé,Adolescent
+291,22:27,Yopougon,Non précisé,Non précisé
+292,23:31,Yopougon,Non précisé,Adolescent
+293,14:06,Koumassi,Non précisé,Non précisé
+294,16:07,Koumassi,Homme,Adolescent
+295,18:30,Koumassi,Homme,Adulte
+296,8:30,Abobo,Non précisé,Non précisé
+297,15:15,Koumassi,Homme,Adulte
+298,11:10,Koumassi,Non précisé,Non précisé
+299,18:20,Koumassi,Femme,Adulte
+300,11:41,Koumassi,Non précisé,Non précisé
+301,11:43,Yopougon,Femme,Adulte
+302,18:35,Koumassi,Non précisé,Non précisé
+303,12:23,Koumassi,Femme,Adolescent
+304,Non précisée,Yopougon,Non précisé,Non précisé
+305,Non précisée,Abobo,Femme,Enfant
+306,Non précisée,Yopougon,Femme,Enfant
+307,Non précisée,Abobo,Homme,Enfant
+308,Non précisée,Abobo,Non précisé,Adolescent
+309,Non précisée,Koumassi,Non précisé,Enfant
+310,12:46,Yopougon,Multiple,Non précisé
+311,14:09,Cocody,Multiple,Non précisé
+312,21:36,Cocody,Non précisé,Enfant
+313,8:45,Cocody,Homme,Adolescent
+314,19:11,Cocody,Homme,Adulte
+315,22:48,Cocody,Multiple,Non précisé
+316,9:57,Cocody,Non précisé,Non précisé
+317,9:40,Cocody,Homme,Adulte
+318,14:02,Cocody,Non précisé,Non précisé
+319,18:12,Abobo,Homme,Adulte
+320,19:29,Yopougon,Homme,Adulte
+321,12:19,Cocody,Femme,Adulte
+322,10:01,Cocody,Femme,Adulte
+323,16:01,Cocody,Non précisé,Non précisé
+324,12:18,Cocody,Non précisé,Non précisé
+325,13:27,Cocody,Non précisé,Non précisé
+326,13:40,Cocody,Multiple,Non précisé
+327,8:55,Cocody,Homme,Adulte
+328,23:29,Cocody,Femme,Adulte
+329,18:43,Cocody,Multiple,Non précisé
+330,19:21,Cocody,Non précisé,Non précisé
+331,14:46,Cocody,Homme,Adulte
+332,14:25,Cocody,Non précisé,Non précisé
+333,6:57,Cocody,Non précisé,Non précisé
+334,1:41,Abobo,Femme,Adolescent
+335,20:50,Cocody,Non précisé,Non précisé
+336,12:56,Cocody,Non précisé,Non précisé
+337,16:16,Cocody,Homme,Adolescent
+338,19:31,Cocody,Femme,Adulte
+339,18:13,Abobo,Homme,Adulte
+340,13:46,Cocody,Non précisé,Non précisé
+341,14:41,Yopougon,Non précisé,Enfant
+342,16:12,Cocody,Homme,Adulte
+343,14:57,Cocody,Non précisé,Non précisé
+344,17:00,Cocody,Non précisé,Adolescent
+345,12:54,Cocody,Non précisé,Adolescent
+346,12:37,Cocody,Non précisé,Enfant
+347,13:22,Yopougon,Femme,Adolescent
+348,12:22,Cocody,Non précisé,Adolescent
+349,13:04,Cocody,Homme,Adulte
+350,16:58,Cocody,Femme,Adulte
+351,15:03,Cocody,Femme,Adulte
+352,11:57,Cocody,Femme,Adolescent
+353,15:12,Cocody,Femme,Adulte
+354,9:08,Cocody,Homme,Adulte
+355,11:43,Cocody,Homme,Adolescent
+356,11:36,Cocody,Non précisé,Non précisé
+357,19:51,Yopougon,Non précisé,Non précisé
+358,15:02,Cocody,Femme,Adulte
+359,14:04,Cocody,Non précisé,Adolescent
+360,15:30,Cocody,Non précisé,Enfant
+361,16:56,Cocody,Non précisé,Enfant
+362,21:28,Cocody,Non précisé,Non précisé
+363,18:00,Cocody,Femme,Adulte
+364,12:08,Cocody,Homme,Adolescent
+365,16:30,Cocody,Non précisé,Non précisé
+366,15:14,Cocody,Femme,Adolescent
+367,13:10,Cocody,Femme,Adulte
+368,19:36,Treichville,Non précisé,Non précisé
+369,11:49,Cocody,Femme,Enfant
+370,Non précisée,Cocody,Multiple,Non précisé
+371,Non précisée,Cocody,Femme,Adulte
+372,Non précisée,Treichville,Femme,Adolescent
+373,Non précisée,Yopougon,Multiple,Non précisé
+374,Non précisée,Abobo,Femme,Adulte
+375,Non précisée,Cocody,Femme,Adolescent
